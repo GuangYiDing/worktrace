@@ -1,0 +1,13 @@
+.buildServer.json
+
+.build
+
+.idea
+
+.logs
+
+.vscode
+
+work-trace.xcodeproj/
+
+
